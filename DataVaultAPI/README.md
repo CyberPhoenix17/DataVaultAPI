@@ -1,6 +1,6 @@
 # DataVaultAPI
 
-An enterprise-grade, high-performance RESTful backend API built with **C# (.NET)** and **Dapper**, designed for secure relational data management and structured record tracking using Microsoft SQL Server.
+Thi is an enterprise-grade, high-performance RESTful backend API built with **C# (.NET)** and **Dapper**, designed for secure relational data management and structured record tracking using Microsoft SQL Server.
 
 ---
 
